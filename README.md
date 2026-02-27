@@ -1,6 +1,6 @@
 # Cloud Database for Market Analysis of Electric Vehicle Powertrain Components
 
-- 🌐 [Project link](https://github.com/nicolas-len/gcp-bigquery-market-database#readme)
+- 🌐 [Project link](https://github.com/nicolas-len/gcp-bigquery-market-database/blob/main/high_overview_presentation_git.pdf)
 - 👤 Project contact: [Nicolas Len](https://www.linkedin.com/in/niclen/)
 
 ## Project Overview
